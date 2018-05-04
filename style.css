@@ -1,0 +1,54 @@
+
+/* box color #FFA500*/
+
+/*Elements*/
+
+html{
+    height: 100%
+}
+body{
+    background: #DCDCDC;
+    border: 27px solid #FFFFFF;
+    border-radius: 25px;
+    height: 100%;
+}
+h6{
+    font-family: 'Nunito', sans-serif;
+    color: #FF3434;
+    font-size: 10px;
+    text-align: center;
+    padding: none;
+}
+
+/*classes*/
+
+.text-main{
+    font-family: 'Nunito', sans-serif;
+    text-align: center;
+    font-size: 37px;
+    font-weight: 800;
+    color: #FFFFFF; 
+    padding: 20px
+}
+.container-fluid{
+    width: 75%;
+    position: fixed;
+    left: 50%;
+    margin-left: -37.5%;
+}
+.btn-default{
+    padding-left: 30px;/*btn default*/
+    padding-right: 30px;
+}
+.btn-spread{
+    padding: 20px;
+}
+
+.warning{
+    display: none;
+}
+#box{
+    position: relative;
+    margin: 17% auto 0% auto;
+} 
+
